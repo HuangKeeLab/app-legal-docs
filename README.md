@@ -1,2 +1,6 @@
-# app-legal-docs
-Public Legal Doc Webpage
+# legal-docs
+
+HuangKee's product legal documents.
+
+Check here for more information:
+https://legal.huangkee.com/
